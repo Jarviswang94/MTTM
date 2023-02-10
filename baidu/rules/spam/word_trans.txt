@@ -1,0 +1,17 @@
+热线:hotline
+电话:tel
+微信:wechat
+咨询:consult
+九折:10% off
+八折:20% off
+七折:30% off
+六折:40% off
+五折:50% off
+四折:60% off
+三折:70% off
+优惠:discount
+充值:recharge
+现价:current price
+原价:original price
+满:full
+立减:reduction

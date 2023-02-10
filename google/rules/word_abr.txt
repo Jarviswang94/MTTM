@@ -1,0 +1,15 @@
+fuck:f
+bitch:b
+shit:s
+nigga:n
+pussy:p
+ass: a
+nipple: n
+Bitch:B
+Fuck:F
+Nigga:N
+nigger:n
+dick:d
+hoe:h
+cunt:c
+penis:p
